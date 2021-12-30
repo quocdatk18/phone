@@ -1,0 +1,22 @@
+.voucher {
+	
+    border-radius: 0!important;
+    width: 100px;
+    height: 43px !important ;
+    line-height: 30px;
+    border: 1px solid #eee;
+    text-align: center;
+    color: #3c3d41;
+    margin: 0 1rem;
+    cursor: pointer;
+
+}
+.right {
+	font-size: 16px;
+    color: #e11b1e;
+    font-weight: 700;
+}
+
+.inputVoucher:hover {
+	border:1px solid #99FFCC !important;
+}
